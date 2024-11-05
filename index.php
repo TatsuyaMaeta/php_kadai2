@@ -8,7 +8,7 @@
     <style>
     div {
         padding: 10px;
-        font-size: 16px;
+        font-size: 24px;
     }
     </style>
 </head>
